@@ -1,0 +1,24 @@
+2023-03-14 16:40:59,357 - WARNING - [record_log:28] - ### 400 Error ###
+2023-03-14 16:40:59,358 - INFO - [record_log:29] - 현재 시간 : 2023/03/14 16:40:59
+2023-03-14 16:40:59,358 - INFO - [record_log:30] - 복구 시간 : 2023/03/14 16:55:59
+2023-03-14 16:40:59,358 - INFO - [record_log:31] - 남은 시간 : 0:14:59.642479
+2023-03-14 16:40:59,359 - INFO - [record_log:32] - count : 0
+2023-03-14 16:40:59,360 - WARNING - [record_log:33] - ### 400 Error ###
+2023-03-14 16:41:45,984 - WARNING - [record_log:28] - ### 400 Error ###
+2023-03-14 16:41:45,986 - INFO - [record_log:29] - 현재 시간 : 2023/03/14 16:41:45
+2023-03-14 16:41:45,986 - INFO - [record_log:30] - 복구 시간 : 2023/03/14 16:55:59
+2023-03-14 16:41:45,986 - INFO - [record_log:31] - 남은 시간 : 0:14:13.015198
+2023-03-14 16:41:45,986 - INFO - [record_log:32] - count : 0
+2023-03-14 16:41:45,987 - WARNING - [record_log:33] - ### 400 Error ###
+2023-03-14 17:11:01,545 - WARNING - [record_log:28] - ### ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read)) Error ###
+2023-03-14 17:11:01,546 - INFO - [record_log:29] - 현재 시간 : 2023/03/14 17:11:01
+2023-03-14 17:11:01,546 - INFO - [record_log:30] - 복구 시간 : 2023/03/14 16:55:59
+2023-03-14 17:11:01,546 - INFO - [record_log:31] - 남은 시간 : -1 day, 23:44:57.454415
+2023-03-14 17:11:01,546 - INFO - [record_log:32] - count : 61368
+2023-03-14 17:11:01,546 - WARNING - [record_log:33] - ### ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read)) Error ###
+2023-03-17 19:33:08,997 - WARNING - [record_log:30] - ### <class 'requests.exceptions.ChunkedEncodingError'>('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read)) Error ###
+2023-03-17 19:33:09,030 - INFO - [record_log:31] - 현재 시간 : 2023/03/17 19:33:08
+2023-03-17 19:33:09,030 - INFO - [record_log:32] - 복구 시간 : 2023/03/17 11:48:20
+2023-03-17 19:33:09,032 - INFO - [record_log:33] - 남은 시간 : -1 day, 16:15:11.009588
+2023-03-17 19:33:09,032 - INFO - [record_log:34] - count : 1167387
+2023-03-17 19:33:09,033 - WARNING - [record_log:35] - ### <class 'requests.exceptions.ChunkedEncodingError'>('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read)) Error ###
