@@ -1,7 +1,8 @@
 # 트위터 API를 이용한 데이터 파이프라인
-- 프로젝트의 자세한 내용은 [블로그](https://my-develop-note.tistory.com/233)에 포스팅하였습니다.
+- 프로젝트의 더 자세한 내용은 [블로그](https://my-develop-note.tistory.com/233)에 포스팅하였습니다.
 
 ## 프로젝트 환경
+프레임워크의 환경구성은 각 폴더에 저장하였습니다.
 - VirtualBox의 가상머신(VM) 사용
 - 가상머신(VM)은 `ubuntu-20.04` OS를 사용
 - master 1개, slave 4개의 머신으로 구성
@@ -15,8 +16,6 @@
 - `mongodb.4.4`
 - `java-8`
 - `python-3.8`
-
-프레임워크의 환경구성은 각 폴더에 저장하였습니다.
 
 ## 프로젝트 설명
 - 가상머신(VM) 5개를 생성하고 ubunt-20.04를 설치하였습니다.
@@ -33,7 +32,6 @@
 - spark 분산 환경 구축 및 hadoop yarn 위에서 spark 실행
   - hdfs를 spark-warehouse로 이용하여 spark에서 만들어진 테이블을 저장
 - pyspark를 이용하여 데이터 파이프라인을 구축하였습니다.
-  - 
   - [spark_yarn.ipynb](spark_yarn.ipynb)
 - airflow 설치 및 세팅
 - airflow DAG 작성
