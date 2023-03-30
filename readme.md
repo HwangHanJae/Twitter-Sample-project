@@ -32,6 +32,7 @@
 - spark 분산 환경 구축 및 hadoop yarn 위에서 spark 실행
   - hdfs를 spark-warehouse로 이용하여 spark에서 만들어진 테이블을 저장
 - pyspark를 이용하여 데이터 파이프라인을 구축하였습니다.
+  - ![image](https://user-images.githubusercontent.com/60374463/228698949-08ab847c-b265-481c-929c-8c0394aba1ce.png)
   - [spark_yarn.ipynb](spark_yarn.ipynb)
 - airflow 설치 및 세팅
 - airflow DAG 작성
